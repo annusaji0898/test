@@ -3,7 +3,7 @@ import ComponentD from './components/ComponentD'
 
 function ComponentB (){
     return(
-        <div>
+        <div className="name">
             <ComponentD />
         </div>
     )
